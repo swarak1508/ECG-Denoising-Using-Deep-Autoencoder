@@ -47,6 +47,14 @@ The reconstructed ECG is compared with the clean ground-truth ECG using:
 
 The notebook also provides visual comparison between the noisy ECG, accelerometer reference, ground-truth ECG and reconstructed ECG.
 
+### ECG Denoising
+
+![ECG Denoising Result](ecg_denoising_result.png)
+
+### Reconstruction Accuracy
+
+![Reconstruction Accuracy](reconstruction_accuracy.png)
+
 ## Files
 
 - `respireai.ipynb` – Initial experimentation and development of the ECG denoising approach.
