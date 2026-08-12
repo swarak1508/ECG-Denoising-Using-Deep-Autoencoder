@@ -49,11 +49,11 @@ The notebook also provides visual comparison between the noisy ECG, acceleromete
 
 ### ECG Denoising
 
-![ECG Denoising Result](ecg_denoising_result.png)
+![ECG Denoising Result]("C:\Users\Swara\Desktop\ecg_denoising_result.png")
 
 ### Reconstruction Accuracy
 
-![Reconstruction Accuracy](reconstruction_accuracy.png)
+![Reconstruction Accuracy]("C:\Users\Swara\Desktop\reconstruction_accuracy.png")
 
 ## Files
 
